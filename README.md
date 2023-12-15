@@ -1,6 +1,6 @@
 # CUTE BONNIE BOT DOCS
 
-This is the documentation repo for the Cute Bonnie bot for Discord and Revolt.chat
+This is the documentation repo for the Cute Bonnie bot for Discord and Revolt.chat. The commands and responses are available on both the Discord and Revolt version of the bot.
 
 ## Files
 

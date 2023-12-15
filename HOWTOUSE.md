@@ -18,9 +18,9 @@ For example, say "sing for me bonnie" and Cute Bonnie with sing you a random Fiv
 
 Some other questions you can ask Cute Bonnie in chat is:
 
-- Do you like <Insert Animatronic Name Here> bonnie
-- Do you know <Insert Animatronic Name Here> bonnie
-- Do you play the <Instrument Name Here> bonnie
+- Do you like "Insert Animatronic Name Here" bonnie
+- Do you know "Insert Animatronic Name Here" bonnie
+- Do you play the "Instrument Name Here" bonnie
 - sing for me bonnie
 
 Cute Bonnie Bot also has some secret responses as well.
