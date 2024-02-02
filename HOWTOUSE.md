@@ -12,15 +12,15 @@ Some commands include
 
 ## Chat Feature
 
-Want Cute Bonnie to respond to your chat? You can ask a question that ends with bonnie (all letters of bonnie must be lowercased)
+Want Cute Bonnie to respond to your chat? You can ask a question that starts with "Hey Bonnie, " (all letters are case sensitive)
 
-For example, say "sing for me bonnie" and Cute Bonnie with sing you a random Five Nights at Freddy's song.
+For example, say "Hey Bonnie, sing for me" and Cute Bonnie with sing you a random Five Nights at Freddy's song.
 
 Some other questions you can ask Cute Bonnie in chat is:
 
-- Do you like "Insert Animatronic Name Here" bonnie
-- Do you know "Insert Animatronic Name Here" bonnie
-- Do you play the "Instrument Name Here" bonnie
-- sing for me bonnie
+- Hey Bonnie, Do you like "Insert Animatronic Name Here"
+- Hey Bonnie, Do you know "Insert Animatronic Name Here"
+- Hey Bonnie, Do you play the "Instrument Name Here"
+- Hey Bonnie, sing for me
 
 Cute Bonnie Bot also has some secret responses as well.
